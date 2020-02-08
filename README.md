@@ -3,7 +3,7 @@
 using C++ SFML  
   
 **Run "tenks.exe" in the "source_code" folder to play the game**
-![Preview](Screenshot_tenks.png)
+![Preview](Screenshot.png)
 
 Made in groups of 3  
 All graphics made by, and all art credits go to: Jann  
