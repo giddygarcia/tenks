@@ -1,0 +1,25 @@
+# of obstacles: 8
+Color Theme (Christmas, Neon): Christmas
+Mode(Tanks, Spaceships): Spaceships
+Size: 50 50
+100 400
+250 400
+550 400
+700 400
+400 100
+400 250
+400 550
+400 700
+Range Radius: 0
+Mine Radius: 0
+Mine Position: 0 0
+# of points: 8
+0 0
+10 10
+0 20
+30 50
+60 20
+50 10
+60 0
+30 -30
+Mid Point: 30 10

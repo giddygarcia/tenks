@@ -1,0 +1,21 @@
+# of first set obstacles: 6
+Color Theme (Christmas, Neon): Christmas
+Mode(Tanks, Spaceships): Spaceships
+Size: 100 150
+400 300
+400 500
+150 200
+150 600
+650 200
+650 600
+Range Radius: 200
+Mine Radius: 100
+Mine Position: 400 400
+# of points: 6
+0 0
+25 -25
+50 0
+50 50
+25 75
+0 50
+Mid Point: 25 25

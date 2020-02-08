@@ -1,0 +1,1 @@
+g++ -c %1 -I"C:\SFML-2.5.1\include" -o main.o && g++ main.o -o tenks.exe -L"C:\SFML-2.5.1\lib" -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system
